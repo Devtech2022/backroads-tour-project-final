@@ -255,7 +255,7 @@ Navbar
   }
   .nav-link:hover {
     padding: 0;
-    color: var(--clr-primary-5);
+    color: red;
     background: transparent;
   }
   .nav-icons {
